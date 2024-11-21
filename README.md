@@ -1,16 +1,14 @@
-## Hi there 👋
+## Prof. Tim Weber
+- Big Data and Production Management
+- Head of SensorLab
+- Head of Studies "Mechatronik und Projektmanagement für digitale Produktion"
 
-<!--
-**mechtrix/mechtrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Study Material
 
-Here are some ideas to get you started:
+### Big Data
+- [lecture slides](https://mechtrix.github.io/BigData_online/)
+- [exercises](https://mechtrix.github.io/BigData_exercises/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Advanced Statistical Methods and Optimisation
+- [script](https://mechtrix.github.io/asmao_online/)
+
