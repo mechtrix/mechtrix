@@ -12,3 +12,6 @@
 - ### Advanced Statistical Methods and Optimisation
 - [script](https://mechtrix.github.io/asmao_online/)
 
+## trainings
+
+- [nlp](https://mechtrix.github.io/nlp_exercises/get_started.html)
