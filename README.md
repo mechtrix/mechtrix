@@ -14,4 +14,4 @@
 
 ## trainings
 
-- [nlp](https://mechtrix.github.io/nlp_exercises/get_started.html)
+- [nlp](https://mechtrix.github.io/nlp_exercises/)
