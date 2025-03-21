@@ -9,7 +9,7 @@
 - [lecture slides](https://mechtrix.github.io/BigData_online/)
 - [exercises](https://mechtrix.github.io/BigData_exercises/)
 
-- ### Advanced Statistical Methods and Optimisation
+### Advanced Statistical Methods and Optimisation
 - [script](https://mechtrix.github.io/asmao_online/)
 
 ## trainings
